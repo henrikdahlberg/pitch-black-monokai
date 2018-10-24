@@ -1,6 +1,6 @@
 # VS Code Pitch Black Monokai Color Theme
 
-All backgrounds and unnecessary borders are black and are taken from the [Pitch Black](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme/blob/master/themes/pitch-black-color-theme.json). Syntax highlighting colors are taken from the [Monokai](https://github.com/Microsoft/vscode/blob/master/extensions/theme-monokai/themes/monokai-color-theme.json) theme.
+All backgrounds and unnecessary borders are black and are taken from the [Pitch Black](https://github.com/ViktorQvarfordt/vscode-pitch-black-theme/blob/master/themes/pitch-black-color-theme.json) theme. Syntax highlighting colors are taken from the [Monokai](https://github.com/Microsoft/vscode/blob/master/extensions/theme-monokai/themes/monokai-color-theme.json) theme.
 
 
 ## Settings
